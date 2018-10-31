@@ -1,0 +1,11 @@
+G:\Net\ORM\OrmSource\bin\Debug\OrmSource.exe.config
+G:\Net\ORM\OrmSource\bin\Debug\OrmSource.exe
+G:\Net\ORM\OrmSource\bin\Debug\OrmSource.pdb
+G:\Net\ORM\OrmSource\bin\Debug\Dapper.dll
+G:\Net\ORM\OrmSource\bin\Debug\Dapper.Extension.dll
+G:\Net\ORM\OrmSource\bin\Debug\Dapper.xml
+G:\Net\ORM\OrmSource\obj\Debug\OrmSource.csprojResolveAssemblyReference.cache
+G:\Net\ORM\OrmSource\obj\Debug\OrmSource.csproj.CoreCompileInputs.cache
+G:\Net\ORM\OrmSource\obj\Debug\OrmSource.csproj.CopyComplete
+G:\Net\ORM\OrmSource\obj\Debug\OrmSource.exe
+G:\Net\ORM\OrmSource\obj\Debug\OrmSource.pdb
